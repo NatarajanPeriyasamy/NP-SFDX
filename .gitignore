@@ -35,7 +35,6 @@ ehthumbs.db
 $RECYCLE.BIN/
 
 .vscode
-config/
 .eslintignore
 .prettierignore
 .prettierrc
